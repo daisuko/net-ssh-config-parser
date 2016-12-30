@@ -1,6 +1,6 @@
 module Net
   module SSH
-    module Config
+    class Config
       module Parser
         VERSION = "0.1.0"
       end

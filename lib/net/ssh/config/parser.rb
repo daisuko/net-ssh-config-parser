@@ -2,7 +2,7 @@ require "net/ssh/config/parser/version"
 
 module Net
   module SSH
-    module Config
+    class Config
       module Parser
         class << self
           def load(filename)
