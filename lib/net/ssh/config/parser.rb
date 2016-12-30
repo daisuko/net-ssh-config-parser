@@ -1,7 +1,7 @@
 require "net/ssh/config/parser/version"
 
 module Net
-  module Ssh
+  module SSH
     module Config
       module Parser
         # Your code goes here...

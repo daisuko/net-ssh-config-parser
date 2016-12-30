@@ -5,7 +5,7 @@ require 'net/ssh/config/parser/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "net-ssh-config-parser"
-  spec.version       = Net::Ssh::Config::Parser::VERSION
+  spec.version       = Net::SSH::Config::Parser::VERSION
   spec.authors       = ["daisuko"]
   spec.email         = ["striker.daisuko@gmail.com"]
 
