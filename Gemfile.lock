@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    net-ssh-config-parser (0.1.0)
+      net-ssh
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    net-ssh (4.0.0)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.13)
+  net-ssh-config-parser!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.13.6
